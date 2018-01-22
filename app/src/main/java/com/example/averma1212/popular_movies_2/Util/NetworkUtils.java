@@ -17,7 +17,7 @@ import java.util.Scanner;
 public class NetworkUtils {
     private static String TAG = "Error";
     private final static String apiBaseUrl = "http://api.themoviedb.org/3/movie";
-    private final static String key ="4790e766d5e07e62ad78b4c0c5793e72";
+    private final static String key ="Your Key";
     private final static String queryParameter = "api_key";
 
 
