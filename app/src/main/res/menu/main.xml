@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+    <item
+        android:title="@string/menu_rating"
+        android:id="@+id/sort_by_rating"
+        app:showAsAction="collapseActionView"
+        android:orderInCategory="1" />
+    <item
+        android:title="@string/menu_popularity"
+        android:id="@+id/sort_by_popularity"
+        app:showAsAction="collapseActionView"
+        android:orderInCategory="1" />
+</menu>

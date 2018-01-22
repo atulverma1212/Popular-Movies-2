@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="child_desc">Plot synopsis</string>
+    <string name="child_votes">Vote Average</string>
+    <string name="child_lang">Language</string>
+    <string name="child_date">Release Date</string>
+    <string name="menu_rating">Sort By Ratings</string>
+    <string name="menu_popularity">Sort By Popularity</string>
+    <string name="error_msg">Failed to connect to Internet!</string>
+    <string name="fetch_data">Fetching data from Internet ...</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref_sortBy_ratings">Ratings</string>
+    <string name="pref_sortBy_popularity">Popularity</string>
+    <string name="pref_sortBy_popularity_value">popular</string>
+    <string name="pref_sortBy_ratings_value">top_rated</string>
+    <string name="pref_sortBy_key">sortBy</string>
+    <string name="pref_sortBy_label">Sort By</string>
+    <string name="no_trailer">No Trailer available</string>
+    <string name="child_trailer">Trailers</string>
+    <string name="child_review">Reviews</string>
+    <string name="no_review">No Review available</string>
+    <string name="favOff">Off</string>
+    <string name="favOn">On</string>
+    <string name="fav_menu">Favorites</string>
+    <string name="fav_activity_label">Favorite Movies</string>
+    <string name="fav_ratings">Ratings</string>
+    <string name="fav_date">Release Date</string>
+    <string name="hindi">Hindi</string>
+    <string name="japanese">Japanese</string>
+    <string name="english">English</string>
+    <string name="no_fav_movies">No Favorite Movie</string>
+    <string name="addedToFav">Added to Favorite Movies . . .</string>
+    <string name="removedFromFav">Removed From Favorite Movies . . .</string>
+</resources>
